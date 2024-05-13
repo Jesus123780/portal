@@ -1,0 +1,15 @@
+.swal2-container {
+  z-index: 20000 !important;
+}
+
+.highlight-autocomplete .MuiOutlinedInput-notchedOutline {
+  border-color: #ba1313;
+}
+
+.highlight-autocomplete .MuiOutlinedInput-notchedOutline:hover {
+  border-color: #ba1313;
+}
+
+.highlight-autocomplete .MuiOutlinedInput-input, .highlight-autocomplete .MuiOutlinedInput-notchedOutline:hover {
+  cursor: pointer;
+}
